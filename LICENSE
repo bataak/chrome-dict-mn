@@ -1,0 +1,24 @@
+Mongolian Hunspell Dictionary - Chromium distribution
+SPDX-License-Identifier: LPPL-1.3c OR MPL-2.0
+
+Copyright (c) 2020-2026 Batmunkh Dorjgotov <bataak@gmail.com>
+
+This distribution is dual-licensed. You may use, modify, and redistribute
+the files in this repository under EITHER of the following licenses, at
+your option:
+
+  Option 1: LaTeX Project Public License v1.3c or later
+            Full text: see COPYING.LPPL
+            Online:    https://www.latex-project.org/lppl.txt
+
+  Option 2: Mozilla Public License v2.0
+            Full text: see COPYING.MPL
+            Online:    https://www.mozilla.org/MPL/2.0/
+
+The original (non-flattened) source dictionary at
+https://github.com/bataak/dict-mn remains licensed under LPPL only.
+
+The files covered by this license are:
+  mn_MN.aff           - Hunspell affix file (flattened for convert_dict)
+  mn_MN.dic           - Hunspell dictionary file
+  README_mn_MN.txt    - Dictionary metadata and acknowledgements

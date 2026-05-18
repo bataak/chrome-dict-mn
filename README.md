@@ -1,1 +1,1 @@
-# chrome-dict-mn
+# dict-mn-chrome

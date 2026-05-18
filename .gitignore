@@ -1,0 +1,5 @@
+# .gitignore
+*.bdic
+out/
+build/
+__pycache__/
