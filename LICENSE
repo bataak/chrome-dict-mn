@@ -21,4 +21,6 @@ https://github.com/bataak/dict-mn remains licensed under LPPL only.
 The files covered by this license are:
   mn_MN.aff           - Hunspell affix file (flattened for convert_dict)
   mn_MN.dic           - Hunspell dictionary file
+  mn-MN-1-0.bdic      - Compiled binary dictionary (generated from the above
+                        via convert_dict)
   README_mn_MN.txt    - Dictionary metadata and acknowledgements
